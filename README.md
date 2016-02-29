@@ -4,6 +4,6 @@ cd,
 vim,
 git commit -m,
 git add .,
-git push,
-
+git push
+.
 
