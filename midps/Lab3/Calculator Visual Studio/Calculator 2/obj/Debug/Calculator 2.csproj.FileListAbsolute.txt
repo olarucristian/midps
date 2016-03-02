@@ -1,0 +1,9 @@
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe.config
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\bin\Debug\Calculator 2.pdb
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csprojResolveAssemblyReference.cache
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\obj\Debug\Calculator_2.Form1.resources
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.Cache
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\obj\Debug\Calculator 2.exe
+c:\users\olaru\onedrive\documents\visual studio 2015\Projects\Calculator 2\Calculator 2\obj\Debug\Calculator 2.pdb
