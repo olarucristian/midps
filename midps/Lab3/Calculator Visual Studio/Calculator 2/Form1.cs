@@ -22,6 +22,9 @@ namespace Calculator_2
         public Form1()
         {
             InitializeComponent();
+            label1.Text = "";
+            label2.Text = "";
+            label3.Text = "";
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -153,7 +156,7 @@ namespace Calculator_2
             double opr1, opr2;
             double.TryParse(operand1, out opr1);
             double.TryParse(operand2, out opr2);
-
+            label3.Text = opr2.ToString();
             switch (operation)
             {
                 case '+':
