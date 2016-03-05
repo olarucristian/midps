@@ -53,7 +53,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtInput
@@ -61,21 +60,22 @@
             this.txtInput.BackColor = System.Drawing.SystemColors.Menu;
             this.txtInput.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtInput.ForeColor = System.Drawing.Color.Black;
-            this.txtInput.Location = new System.Drawing.Point(22, 3);
-            this.txtInput.MaxLength = 9;
+            this.txtInput.Location = new System.Drawing.Point(13, 12);
+            this.txtInput.MaxLength = 8;
             this.txtInput.Multiline = true;
             this.txtInput.Name = "txtInput";
             this.txtInput.ReadOnly = true;
-            this.txtInput.Size = new System.Drawing.Size(230, 75);
+            this.txtInput.Size = new System.Drawing.Size(214, 75);
             this.txtInput.TabIndex = 0;
             this.txtInput.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtInput.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // button1
             // 
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Crimson;
-            this.button1.Location = new System.Drawing.Point(22, 95);
+            this.button1.Location = new System.Drawing.Point(13, 99);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(49, 36);
             this.button1.TabIndex = 1;
@@ -85,9 +85,10 @@
             // 
             // button2
             // 
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.Crimson;
-            this.button2.Location = new System.Drawing.Point(77, 95);
+            this.button2.Location = new System.Drawing.Point(68, 99);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(49, 36);
             this.button2.TabIndex = 2;
@@ -97,9 +98,10 @@
             // 
             // button3
             // 
+            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button3.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.Crimson;
-            this.button3.Location = new System.Drawing.Point(132, 95);
+            this.button3.Location = new System.Drawing.Point(123, 99);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(49, 36);
             this.button3.TabIndex = 3;
@@ -110,9 +112,10 @@
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Brown;
+            this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button4.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.White;
-            this.button4.Location = new System.Drawing.Point(203, 95);
+            this.button4.Location = new System.Drawing.Point(178, 99);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(49, 36);
             this.button4.TabIndex = 4;
@@ -122,9 +125,10 @@
             // 
             // button5
             // 
+            this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button5.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.Color.Crimson;
-            this.button5.Location = new System.Drawing.Point(203, 155);
+            this.button5.Location = new System.Drawing.Point(178, 150);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(49, 36);
             this.button5.TabIndex = 5;
@@ -134,9 +138,10 @@
             // 
             // button6
             // 
+            this.button6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button6.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.Color.Crimson;
-            this.button6.Location = new System.Drawing.Point(203, 197);
+            this.button6.Location = new System.Drawing.Point(178, 192);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(49, 36);
             this.button6.TabIndex = 6;
@@ -146,9 +151,10 @@
             // 
             // button7
             // 
+            this.button7.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button7.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button7.ForeColor = System.Drawing.Color.Crimson;
-            this.button7.Location = new System.Drawing.Point(203, 239);
+            this.button7.Location = new System.Drawing.Point(178, 234);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(49, 36);
             this.button7.TabIndex = 7;
@@ -158,9 +164,10 @@
             // 
             // button8
             // 
+            this.button8.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button8.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button8.ForeColor = System.Drawing.Color.Crimson;
-            this.button8.Location = new System.Drawing.Point(203, 281);
+            this.button8.Location = new System.Drawing.Point(178, 276);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(49, 36);
             this.button8.TabIndex = 8;
@@ -170,11 +177,12 @@
             // 
             // button9
             // 
+            this.button9.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button9.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button9.ForeColor = System.Drawing.Color.Crimson;
-            this.button9.Location = new System.Drawing.Point(22, 323);
+            this.button9.Location = new System.Drawing.Point(12, 318);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(175, 37);
+            this.button9.Size = new System.Drawing.Size(159, 37);
             this.button9.TabIndex = 9;
             this.button9.Text = "=";
             this.button9.UseVisualStyleBackColor = true;
@@ -182,9 +190,10 @@
             // 
             // button10
             // 
+            this.button10.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button10.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button10.ForeColor = System.Drawing.Color.Black;
-            this.button10.Location = new System.Drawing.Point(22, 155);
+            this.button10.Location = new System.Drawing.Point(13, 150);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(49, 36);
             this.button10.TabIndex = 10;
@@ -194,9 +203,10 @@
             // 
             // button11
             // 
+            this.button11.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button11.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button11.ForeColor = System.Drawing.Color.Black;
-            this.button11.Location = new System.Drawing.Point(77, 155);
+            this.button11.Location = new System.Drawing.Point(67, 150);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(49, 36);
             this.button11.TabIndex = 11;
@@ -206,9 +216,11 @@
             // 
             // button12
             // 
+            this.button12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.button12.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button12.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button12.ForeColor = System.Drawing.Color.Black;
-            this.button12.Location = new System.Drawing.Point(132, 155);
+            this.button12.Location = new System.Drawing.Point(122, 150);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(49, 36);
             this.button12.TabIndex = 12;
@@ -218,9 +230,10 @@
             // 
             // button13
             // 
+            this.button13.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button13.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button13.ForeColor = System.Drawing.Color.Black;
-            this.button13.Location = new System.Drawing.Point(22, 197);
+            this.button13.Location = new System.Drawing.Point(13, 192);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(49, 36);
             this.button13.TabIndex = 13;
@@ -230,9 +243,10 @@
             // 
             // button14
             // 
+            this.button14.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button14.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button14.ForeColor = System.Drawing.Color.Black;
-            this.button14.Location = new System.Drawing.Point(77, 197);
+            this.button14.Location = new System.Drawing.Point(67, 192);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(49, 36);
             this.button14.TabIndex = 14;
@@ -242,9 +256,10 @@
             // 
             // button15
             // 
+            this.button15.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button15.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button15.ForeColor = System.Drawing.Color.Black;
-            this.button15.Location = new System.Drawing.Point(132, 197);
+            this.button15.Location = new System.Drawing.Point(123, 192);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(49, 36);
             this.button15.TabIndex = 15;
@@ -254,9 +269,10 @@
             // 
             // button16
             // 
+            this.button16.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button16.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button16.ForeColor = System.Drawing.Color.Black;
-            this.button16.Location = new System.Drawing.Point(22, 239);
+            this.button16.Location = new System.Drawing.Point(13, 234);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(49, 36);
             this.button16.TabIndex = 16;
@@ -266,9 +282,10 @@
             // 
             // button17
             // 
+            this.button17.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button17.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button17.ForeColor = System.Drawing.Color.Black;
-            this.button17.Location = new System.Drawing.Point(77, 239);
+            this.button17.Location = new System.Drawing.Point(68, 234);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(49, 36);
             this.button17.TabIndex = 17;
@@ -278,9 +295,10 @@
             // 
             // button18
             // 
+            this.button18.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button18.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button18.ForeColor = System.Drawing.Color.Black;
-            this.button18.Location = new System.Drawing.Point(132, 239);
+            this.button18.Location = new System.Drawing.Point(123, 234);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(49, 36);
             this.button18.TabIndex = 18;
@@ -290,9 +308,10 @@
             // 
             // button19
             // 
+            this.button19.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button19.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button19.ForeColor = System.Drawing.Color.Black;
-            this.button19.Location = new System.Drawing.Point(22, 281);
+            this.button19.Location = new System.Drawing.Point(13, 276);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(49, 36);
             this.button19.TabIndex = 19;
@@ -302,9 +321,10 @@
             // 
             // button20
             // 
+            this.button20.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button20.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button20.ForeColor = System.Drawing.Color.Crimson;
-            this.button20.Location = new System.Drawing.Point(203, 324);
+            this.button20.Location = new System.Drawing.Point(178, 319);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(49, 36);
             this.button20.TabIndex = 20;
@@ -315,9 +335,9 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label1.BackColor = System.Drawing.SystemColors.Menu;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(91, 56);
+            this.label1.Location = new System.Drawing.Point(69, 60);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(47, 17);
             this.label1.TabIndex = 21;
@@ -327,9 +347,9 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label2.BackColor = System.Drawing.SystemColors.Menu;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(132, 56);
+            this.label2.Location = new System.Drawing.Point(119, 60);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(47, 17);
             this.label2.TabIndex = 22;
@@ -339,32 +359,21 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label3.BackColor = System.Drawing.SystemColors.Menu;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(173, 56);
+            this.label3.Location = new System.Drawing.Point(173, 60);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(47, 17);
             this.label3.TabIndex = 23;
             this.label3.Text = "label3";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(91, 387);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(103, 13);
-            this.label4.TabIndex = 24;
-            this.label4.Text = "Olaru Cristian TI-144";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(264, 409);
-            this.Controls.Add(this.label4);
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.ClientSize = new System.Drawing.Size(239, 366);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -389,11 +398,14 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtInput);
+            this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(285, 448);
-            this.MinimumSize = new System.Drawing.Size(280, 448);
+            this.MaximumSize = new System.Drawing.Size(255, 405);
+            this.MinimumSize = new System.Drawing.Size(255, 405);
             this.Name = "Form1";
+            this.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculator";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -426,7 +438,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
     }
 }
 

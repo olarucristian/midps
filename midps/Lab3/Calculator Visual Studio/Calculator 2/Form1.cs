@@ -30,6 +30,7 @@ namespace Calculator_2
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             
+            
            
         }
 
@@ -88,6 +89,7 @@ namespace Calculator_2
         private void button16_Click(object sender, EventArgs e)
         {
             txtInput.Text += "1";
+            
         }
 
         private void button17_Click(object sender, EventArgs e)
