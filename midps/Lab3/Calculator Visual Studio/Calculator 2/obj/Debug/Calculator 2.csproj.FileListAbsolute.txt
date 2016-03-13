@@ -25,3 +25,6 @@ C:\Users\olaru\Desktop\midps\midps\Lab3\Calculator Visual Studio\Calculator 2\ob
 C:\Users\olaru\Desktop\midps\midps\Lab3\Calculator Visual Studio\Calculator 2\obj\Debug\Calculator_2.Form1.resources
 C:\Users\olaru\Desktop\midps\midps\Lab3\Calculator Visual Studio\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
 C:\Users\olaru\Desktop\midps\midps\Lab3\Calculator Visual Studio\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.Cache
+C:\Users\olaru\Desktop\map\midps\midps\Lab3\Calculator Visual Studio\Calculator 2\bin\Debug\Calculator 2.exe.config
+C:\Users\olaru\Desktop\map\midps\midps\Lab3\Calculator Visual Studio\Calculator 2\obj\Debug\Calculator 2.exe
+C:\Users\olaru\Desktop\map\midps\midps\Lab3\Calculator Visual Studio\Calculator 2\obj\Debug\Calculator 2.pdb
