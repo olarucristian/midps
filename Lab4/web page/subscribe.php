@@ -1,5 +1,5 @@
 <?php
-$con =mysqli_connect ('localhost','root', 'olarucr12');
+$con =mysqli_connect ('localhost','root', 'contact for password');
 
 if (!$con)
 {
